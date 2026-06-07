@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "kLqSM28pyygVNJl9E1OyG"
+uri = "file://artifacts/portfolio/public/project-1.png"
+type = "image"
+title = "Fintech dashboard UI"
+
+[[generated]]
+id = "ISjJP7RM7qV8FURVFkkim"
+uri = "file://artifacts/portfolio/public/project-2.png"
+type = "image"
+title = "Luxury fashion ecommerce"
+
+[[generated]]
+id = "AO4xoRViBdNeEMAH3901d"
+uri = "file://artifacts/portfolio/public/project-3.png"
+type = "image"
+title = "Generative art app"
