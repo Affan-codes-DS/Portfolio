@@ -94,10 +94,10 @@ function Hero() {
 
           <div className="mt-8 md:mt-0 md:ml-12 flex-shrink-0 flex items-center justify-center">
             <Avatar
-              className="w-40 h-40 md:w-72 md:h-72 shadow-2xl"
+              className="w-40 h-40 md:w-72 md:h-72 shadow-2xl bg-gradient-to-br from-primary to-orange-600"
               style={{ marginLeft: '150px', marginTop: '-200px', transform: 'scale(1.2)', transformOrigin: 'center' }}
             >
-              <AvatarImage src="/profile.jpg" alt="Mohammad Affan" />
+              <AvatarImage src={`${import.meta.env.BASE_URL}profile.jpg`} alt="Mohammad Affan" />
             </Avatar>
           </div>
         </div>
